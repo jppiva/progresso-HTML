@@ -21,7 +21,7 @@ h2{
     margin-bottom: 15px;
     color: rgb(183, 0, 255);
 }
-.flex-container {
+.flex-container  {
     width: 90%;
     height: 200px;
     background-color: blueviolet;
@@ -39,4 +39,7 @@ h2{
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.justify-center {
+    justify-content: center;
 }
