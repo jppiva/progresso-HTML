@@ -1,6 +1,6 @@
 .retangulo {
-    width: 150px;
-    height: 150px;
+    width: 100px;
+    height: 100px;
     background-color: blueviolet;
     margin:  50px auto;
     border-radius: 50%;
@@ -16,22 +16,30 @@
     width: 150px;
     height: 150px;
 }
-.verde{
-    background-color: rgb(8, 216, 70);
-}
 .roxo{
     background-color: purple;
 }
-.circulo1{
-    width: 150px;
-    height: 150px;
-    background-color: blueviolet;
-    justify-content: center;
+.verde{
+    background-color: green
 }
 .vermelho{
     background-color: red;
+    box-shadow: 0 0 20px #ff0000;
 
 }
 .amarelo{
     background-color: yellow;
+    box-shadow: 0 0 20px yellow;
+}
+.green{
+    background-color: rgb(18, 231, 18);
+    box-shadow:0 0 20px rgb(18, 231, 18);
+}
+.container2{
+    background-color: black;
+    width: 200px;
+    border-radius: 25px;
+    margin: 0 auto 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
